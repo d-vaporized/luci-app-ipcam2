@@ -1,7 +1,7 @@
 # luci-app-ipcam2
 ### About:
 
-Original package from [luci-app-config](https://github.com/ZigFisher/Glutinium/tree/master/luci-app-ipcam) by @ZigFIsher. Modified to configure OpenIPC settings, view OpenIPC service information, etc.
+Original package from [luci-app-config](https://github.com/ZigFisher/Glutinium/tree/master/luci-app-ipcam) by @ZigFisher. Modified to configure OpenIPC settings, view OpenIPC service information, etc.
 
 This should be considered a beta extension!
 
